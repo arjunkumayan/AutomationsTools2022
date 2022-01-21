@@ -21,3 +21,5 @@ git add *.java
 git add file1.java file2.java -> if you want to stage the multiple files in one go
 
 Git commit -am "commit message" -> if a file is modified and you want to add and commit in one command
+
+git commit --amend -> to amend the commit if wrongly given the commit name
