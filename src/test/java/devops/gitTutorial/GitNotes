@@ -15,3 +15,7 @@ Git reset- if newly file is staged then if you want to delete the file
 Git restore - to discard the changes from the staging
 Git push -u origin branch_name- to push to remote branch
 git add -A - to add all the files to staging area
+
+
+git add *.java
+git add file1.java file2.java -> if you want to stage the multiple files in one go
