@@ -1,0 +1,17 @@
+
+1- Git init - to initialize the empty .git repository
+
+To make the connection of local project to remote repo
+use below command
+Git remote add origin repo_url
+
+Directory graph
+
+Working Directory   ->     Staging   --> Local directory  --> Remote directory
+
+
+Git add - to stage the new file
+Git reset- if newly file is staged then if you want to delete the file
+Git restore - to discard the changes from the staging
+Git push -u origin branch_name- to push to remote branch
+git add -A - to add all the files to staging area
