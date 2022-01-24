@@ -26,6 +26,11 @@ dependencies {
     // https://mvnrepository.com/artifact/com.google.code.gson/gson
     implementation 'com.google.code.gson:gson:2.8.9'
 
+    // https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager
+    implementation 'io.github.bonigarcia:webdrivermanager:5.0.3'
+
+    implementation 'io.rest-assured:json-schema-validator:4.5.0'
+
 }
 
 test {
